@@ -2,6 +2,25 @@
 
 This is a production-ready **React Native CLI** boilerplate for rapid mobile app development. It includes built-in **authentication flow**, **Zustand** for state management, and **React Navigation** for routing.
 
+
+# template preview
+
+## light theme
+![Template Preview](./temp_preview/light/welcome.jpg)
+![Template Preview](./temp_preview/light/login.jpg)
+![Template Preview](./temp_preview/light/signup.jpg)
+![Template Preview](./temp_preview/light/otp.jpg)
+![Template Preview](./temp_preview/light/forget.jpg)
+
+
+
+## dark theme
+
+
+
+
+
+
 ---
 
 ## 📦 Tech Stacks
@@ -77,3 +96,5 @@ npx pod-install # iOS only
 npx react-native run-android
 
 npx react-native run-ios
+
+
