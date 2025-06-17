@@ -15,8 +15,24 @@ This is a production-ready **React Native CLI** boilerplate for rapid mobile app
 </p>
 
 ## dark theme
+<h3>🌑 dark Theme Preview</h3>
+
+<p align="center">
+  <img src="./temp_preview/dark/welcome.jpg" alt="Welcome" width="150"/>
+  <img src="./temp_preview/dark/login.jpg" alt="Login" width="150"/>
+  <img src="./temp_preview/dark/signup.jpg" alt="Signup" width="150"/>
+  <img src="./temp_preview/dark/otp.jpg" alt="OTP" width="150"/>
+  <img src="./temp_preview/dark/forget.jpg" alt="Forget" width="150"/>
+</p>
 
 
+## pages 
+<h3>Screen</h3>
+
+<p align="center">
+  <img src="./temp_preview/homescreen.jpg" alt="Welcome" width="150"/>
+  <img src="./temp_preview/screen1.jpg" alt="Login" width="150"/>
+</p>
 
 
 
