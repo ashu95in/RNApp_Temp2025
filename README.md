@@ -16,7 +16,7 @@ This is a production-ready **React Native CLI** boilerplate for rapid mobile app
 
 ## 📁 Folder Structure
 
-project-root/
+***project-root/
 │
 ├── android/ # Android native project
 ├── ios/ # iOS native project
@@ -33,7 +33,7 @@ project-root/
 ├── index.js # RN entry point
 ├── package.json
 └── README.md
-
+***
 
 
 ---
@@ -68,7 +68,7 @@ project-root/
 
 ```bash
 git clone <your-repo-url>
-cd your-project
+cd RnApp__Temp2024/app
 
 
 npm install
