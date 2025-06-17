@@ -4,15 +4,15 @@ This is a production-ready **React Native CLI** boilerplate for rapid mobile app
 
 
 # template preview
+<h3>🌞 Light Theme Preview</h3>
 
-## light theme
-![Template Preview](./temp_preview/light/welcome.jpg)
-![Template Preview](./temp_preview/light/login.jpg)
-![Template Preview](./temp_preview/light/signup.jpg)
-![Template Preview](./temp_preview/light/otp.jpg)
-![Template Preview](./temp_preview/light/forget.jpg)
-
-
+<p align="center">
+  <img src="./temp_preview/light/welcome.jpg" alt="Welcome" width="150"/>
+  <img src="./temp_preview/light/login.jpg" alt="Login" width="150"/>
+  <img src="./temp_preview/light/signup.jpg" alt="Signup" width="150"/>
+  <img src="./temp_preview/light/otp.jpg" alt="OTP" width="150"/>
+  <img src="./temp_preview/light/forget.jpg" alt="Forget" width="150"/>
+</p>
 
 ## dark theme
 
